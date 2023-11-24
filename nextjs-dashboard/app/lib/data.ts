@@ -10,7 +10,6 @@ import {
   Revenue,
 } from './definitions';
 import { formatCurrency } from './utils';
-import { Nosifer } from 'next/font/google';
 
 export async function fetchRevenue() {
   noStore();
