@@ -13,22 +13,22 @@
 <img src="./nextjs-dashboard/public/homepage.png" alt="">
 
 #### Login Page
-<img src="./public/login.png" alt="">
+<img src="./nextjs-dashboard/public/login.png" alt="">
 
 #### Dashboard Page
-<img src="./public/dashboard.png" alt="">
+<img src="./nextjs-dashboard/public/dashboard.png" alt="">
 
 #### Invoices Page
-<img src="./public/invoices.png" alt="">
+<img src="./nextjs-dashboard/public/invoices.png" alt="">
 
 #### Create Invoice Page
-<img src="./public/create-invoice.png" alt="">
+<img src="./nextjs-dashboard/public/create-invoice.png" alt="">
 
 #### Edit Invoice Page
-<img src="./public/edit-invoice.png" alt="">
+<img src="./nextjs-dashboard/public/edit-invoice.png" alt="">
 
 #### Customers Page
-<img src="./public/customers.png" alt="">
+<img src="./nextjs-dashboard/public/customers.png" alt="">
 
 ### Links
 
