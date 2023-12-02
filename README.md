@@ -10,7 +10,7 @@
 ### Screenshots
 
 #### Home Page
-<img src="./public/homepage.png" alt="">
+<img src="./nextjs-dashboard/public/homepage.png" alt="">
 
 #### Login Page
 <img src="./public/login.png" alt="">
