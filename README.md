@@ -5,6 +5,7 @@
 - [Screenshots](#screenshots)
 - [Links](#links)
 - [Built with](#built-with)
+- [Login Infos](#login-infos)
 - [Author](#author)
 
 ### Screenshots
@@ -43,6 +44,11 @@
 - PostgreSQL
 - Tailwind CSS
 - Google Fonts
+
+### Login Infos
+
+- Email: user@nextmail.com
+- Password: 123456
 
 ## Author
 
